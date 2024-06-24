@@ -1,0 +1,18 @@
+input {
+    height: 50px;
+    width: 40%;
+    border-radius: 8px;
+    border: 2px solid #0b5ed7;
+    padding: 10px 15px;
+    box-shadow: 1px 3px 9px rgba(#000, grey, black);
+}
+.form-search-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-search-container .btn-primary{
+    height: 47px;
+    margin-left: 10px;
+}
+
